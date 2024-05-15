@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "agora-rtm-react": "^1.1.2",
     "next": "^14.2.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
